@@ -1,5 +1,6 @@
 # Spotify Data Analysis
 Analyzes your Spotify listening data collected through IFTTTT and stored in Google Sheets
+<br>
 <b>WARNING!</b> I have no idea how to stop IFTTTT from logging all of my data into Google Sheets. If you don't want it to log your songs forever, continue at your own risk. (Mine has been logging songs for literal years with no end in sight)
 
 ## Python Set Up
