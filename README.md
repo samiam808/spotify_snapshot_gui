@@ -18,3 +18,6 @@ I run this in the terminal because I write code from the terminal like a madman.
 
 
 This repository would not be possible without IFTTTT, Google Sheets, and wherever I got the `convert_google_sheet_url()` function.
+
+Pull requests should be open.
+Any questions about this code, please email me at <a href="mailto:lizstip3@gmail.com">lizstip3@gmail.com</a>
